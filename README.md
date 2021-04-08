@@ -1,5 +1,7 @@
 # COMP90041 - Final Project
 
+Yuzhe You
+
 This repository contains the skeleton code and test files for the final project submission on GitHub.
 
 Don't know about version control? Click [here](https://www.atlassian.com/git/tutorials/what-is-version-control).
